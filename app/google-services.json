@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "942807062218",
+    "firebase_url": "https://myfirebaseapp-5bc16.firebaseio.com",
+    "project_id": "myfirebaseapp-5bc16",
+    "storage_bucket": "myfirebaseapp-5bc16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942807062218:android:4fa4ef8cb4fc027df58633",
+        "android_client_info": {
+          "package_name": "com.e.conferenceroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942807062218-7mgmb1h91v4ol4ip1ok4noipftrfj3e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyqMg4Fsd6eoB-CdEPBViz7MIV4EBEBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942807062218-7mgmb1h91v4ol4ip1ok4noipftrfj3e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942807062218:android:839b576134dcd592f58633",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942807062218-eluigapavs2eg1icjft5ubg8kve2mq48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirebaseapp",
+            "certificate_hash": "0808b3a605a07458dd8e247e3cf65bab2c64136b"
+          }
+        },
+        {
+          "client_id": "942807062218-7mgmb1h91v4ol4ip1ok4noipftrfj3e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyqMg4Fsd6eoB-CdEPBViz7MIV4EBEBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942807062218-7mgmb1h91v4ol4ip1ok4noipftrfj3e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942807062218:android:f7a018768ff727b4f58633",
+        "android_client_info": {
+          "package_name": "com.friendster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942807062218-853ff7uugb9718sna2rppvnfa3giqi06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friendster",
+            "certificate_hash": "226ff85940332fc6b931563a552c63000d1eef32"
+          }
+        },
+        {
+          "client_id": "942807062218-7mgmb1h91v4ol4ip1ok4noipftrfj3e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyqMg4Fsd6eoB-CdEPBViz7MIV4EBEBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942807062218-7mgmb1h91v4ol4ip1ok4noipftrfj3e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
